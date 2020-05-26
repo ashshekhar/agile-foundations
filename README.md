@@ -2,6 +2,8 @@
 ### Course By Doug Rose
 ### Course Certificate: [View Certificate](https://github.com/ashshekhar/agile-foundations/blob/master/completion-certificate/CertificateOfCompletion_Agile%20Foundations.pdf)
 
- 1. `agile-useful-notes`: This is an organized collection of useful screenshots from the course for reference
+This is an organized collection of useful screenshots from the course for reference
+
+ 1. `agile-useful-notes:` Covers topics like `agile mindset`, `scrum framework` and much more
  
- 2. `agile-glossary`: Useful agile and scrum terminologies
+ 2. `agile-glossary:`: Useful agile and scrum terminologies
